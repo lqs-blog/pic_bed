@@ -1,1 +1,4 @@
 pic-bed-906.pages.dev/img/avatar.jpeg
+git add .
+git commit -m '更新图片'
+git push
